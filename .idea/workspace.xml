@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dfe99cf-d13f-440c-a36c-eac744f1e99c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bLDlBnIbg4XANhL1qt8znLYV7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVC-demo-1" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dfe99cf-d13f-440c-a36c-eac744f1e99c" name="Default Changelist" comment="" />
+      <created>1588402628114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588402628114</updated>
+      <workItem from="1588402629353" duration="7247000" />
+      <workItem from="1588417041017" duration="670000" />
+      <workItem from="1588423096030" duration="182000" />
+      <workItem from="1588423291522" duration="266000" />
+      <workItem from="1588471255061" duration="1030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2347" y="306" key="FileChooserDialogImpl" timestamp="1588472283602">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2347" y="306" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588472283602" />
+    <state x="2033" y="162" key="SettingsEditor" timestamp="1588472119925">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2033" y="162" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588472119925" />
+  </component>
+</project>
